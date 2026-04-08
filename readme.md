@@ -21,7 +21,7 @@
 
 **MISP-M3SD** is a large-scale **multimodal**, **multi-scenario**, and **multilingual** dataset for **robust speaker diarization**, constructed from in-the-wild online videos.
 
-It contains more than **770 hours** of synchronised audio-visual recordings, covering **14 scenarios** and **16 languages**. The dataset is designed to support the development of speaker diarization systems with stronger **cross-domain generalization** under realistic conditions, including:
+It contains more than **770 hours** of synchronised audio-visual recordings, covering **14 scenarios** and **16 languages**. The dataset is designed to support the development of speaker diarization systems with stronger **cross-domain generalisation** under realistic conditions, including:
 
 - background noise  
 - reverberation  
@@ -48,9 +48,7 @@ For dataset description, released files, and access information, please also ref
 - [Pipeline Overview](#-pipeline-overview)
 - [Environment and Dependencies](#-environment-and-dependencies)
 - [Self-Build Pipeline](#-self-build-pipeline)
-- [Released Dataset Files](#-released-dataset-files)
 - [Notes](#-notes)
-- [Citation](#-citation)
 
 ---
 
